@@ -1,3 +1,4 @@
 #!/ban/bash
-
+1-list contains 3
+it should contain 2
 ls
